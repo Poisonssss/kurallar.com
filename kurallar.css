@@ -1,0 +1,3 @@
+ul li.kk ~ li {
+    color: red;
+}
